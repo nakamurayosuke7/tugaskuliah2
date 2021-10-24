@@ -31,3 +31,27 @@ Untuk membaca kode, python sendiri menggunakan interpreter dibanding compiler. L
 
 8. Perbedaan IDE dan Text Editor
 
+![image](https://user-images.githubusercontent.com/92938547/138580279-e201cf97-c12c-4518-92ec-c4ec7f996712.png)
+
+9. IDE khusus untuk python dan Text Editor khusu untuk python
+
+Untuk IDE:
+  1. PyCharm
+  2. Visual Studio Code
+  3. Jupyter Notebook
+  4. Eclipse + PyDev + LiClipse
+  5. Thonny
+
+Untuk Text Editor:
+  1. Vim
+  2. IDLE
+  3. Sublime Text
+  4. Aton
+
+10. Bahasa natural, algoritma, flowchart, dan pseucode
+
+Bahasa natural itu sendiri bahasa verbal bagaimana kita berbicara sehari-hari, juga kadang diartikan dalam bentuk ekspresi. 
+Algoritma adalah jalan keluar pencarian masalah dengan menentukan dan menyusunnya.
+Flowchart yaitu langkah yang telah dikonversi dari algoritma melalui bentuk-bentuk diagram tertentu.
+Pseucode adalah pengimplementasian dari algoritma dan flowchart untuk dikonversi melalui kode-kode agar dapat diterjemahkan oleh komputer.
+
