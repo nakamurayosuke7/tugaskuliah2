@@ -48,6 +48,7 @@ Untuk Text Editor:
   3. Sublime Text
   4. Aton
 
+
 10. Bahasa natural, algoritma, flowchart, dan pseucode
 
 Bahasa natural itu sendiri bahasa verbal bagaimana kita berbicara sehari-hari, juga kadang diartikan dalam bentuk ekspresi. 
