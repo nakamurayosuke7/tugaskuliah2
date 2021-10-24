@@ -1,4 +1,4 @@
-# tugaskuliah2
+# Tugas Kuliah II
 
 1. Apa itu python programming language?
 
